@@ -2,11 +2,11 @@
 		background-color: pink;
 	}
 	.container {
-		width:100%
+		width:100%;
+		font-family: Arial;
 	}
 	/*headers*/
 	h1 {
-		font-family: Arial;
 		text-align: left;
 		margin: 20px;
 	}
