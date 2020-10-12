@@ -7,5 +7,6 @@
 	/*headers*/
 	h1 {
 		font-family: Arial;
-		text-align: center;
+		text-align: left;
+		margin: 20px;
 	}
