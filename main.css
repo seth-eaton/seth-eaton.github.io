@@ -4,12 +4,9 @@
 	.container {
 		width:100%;
 		font-family: Arial;
-	}
-	/*headers*/
-	h1 {
-		text-align: left;
 		margin: 20px;
 	}
+	/*headers*/
 	.title{
 	}
 	.title a {
