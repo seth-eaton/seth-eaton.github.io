@@ -2,9 +2,9 @@
 		background-color: pink;
 	}
 	.container {
-		width:100%;
+		width: 100%;
 		font-family: Arial;
-		margin: 20px;
+		padding: 20px;
 	}
 	/*headers*/
 	.title{
