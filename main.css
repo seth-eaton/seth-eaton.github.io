@@ -4,3 +4,7 @@
 	.container {
 		width:100%
 	}
+	*headers*
+	h1 {
+		font-family: Arial;
+	}
