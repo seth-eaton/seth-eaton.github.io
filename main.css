@@ -21,3 +21,7 @@
 	li {
 		margin: 0 0 3px 0;
 	}
+	/*last updated*/
+	hr {	  
+		border: 1px solid red;
+	}
